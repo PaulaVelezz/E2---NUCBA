@@ -25,6 +25,11 @@ body {
 cursor: pointer;
 }
 
+.logo {
+    position: relative;
+    left: 0px;
+    bottom: 10px;
+}
 .header .logo img {
     height: 150px;
     width: auto;
